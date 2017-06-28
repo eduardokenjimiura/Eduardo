@@ -1,0 +1,13 @@
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\Util\bin\Debug\Util.dll
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\Util\bin\Debug\Util.pdb
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\Util\bin\Debug\Domains.dll
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\Util\bin\Debug\DTO.dll
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\Util\bin\Debug\Domains.pdb
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\Util\bin\Debug\DTO.pdb
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\Util\obj\Debug\Util.dll
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\Util\obj\Debug\Util.pdb
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\Util\bin\Debug\RepositoryEntity.dll
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\Util\bin\Debug\EntityFramework.dll
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\Util\bin\Debug\RepositoryEntity.pdb
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\Util\bin\Debug\EntityFramework.xml

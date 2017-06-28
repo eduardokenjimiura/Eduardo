@@ -1,0 +1,5 @@
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\DTO\bin\Debug\DTO.dll
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\DTO\bin\Debug\DTO.pdb
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\DTO\obj\Debug\DTO.dll
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\DTO\obj\Debug\DTO.pdb
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache

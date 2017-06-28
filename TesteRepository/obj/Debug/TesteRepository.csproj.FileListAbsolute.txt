@@ -1,0 +1,10 @@
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\TesteRepository\bin\Debug\TesteRepository.dll
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\TesteRepository\bin\Debug\TesteRepository.pdb
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\TesteRepository\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\TesteRepository\obj\Debug\TesteRepository.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\TesteRepository\obj\Debug\TesteRepository.dll
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\TesteRepository\obj\Debug\TesteRepository.pdb
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\TesteRepository\bin\Debug\RepositoryEntity.dll
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\TesteRepository\bin\Debug\EntityFramework.dll
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\TesteRepository\bin\Debug\RepositoryEntity.pdb
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\TesteRepository\bin\Debug\EntityFramework.xml

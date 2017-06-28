@@ -1,0 +1,4 @@
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\Servicos\bin\Debug\Domain.dll
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\Servicos\bin\Debug\Domain.pdb
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\Servicos\obj\Debug\Domain.dll
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\Servicos\obj\Debug\Domain.pdb

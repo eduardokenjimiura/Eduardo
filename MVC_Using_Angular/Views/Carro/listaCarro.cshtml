@@ -1,0 +1,30 @@
+﻿
+<h2>Lista de carros</h2>
+ 
+<br />
+
+<div layout="column" layout-fill="" class="layout-fill layout-column">
+    <table class="mdl-data-table mdl-js-data-table mdl-data-table--selectable mdl-shadow--2dp">
+        <thead>
+            <tr>
+                <th>Ano</th>
+                <th>Cor</th>
+                <th>Nome</th>
+                <th>Placa</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="carros in carros">
+                <td>{{carros.Ano}}</td>
+                <td>{{carros.Cor}}</td>
+                <td>{{carros.Nome}}</td>
+                <td>{{carros.Placa}}</td>
+                <td><a ng-click="editCarro(carros.Id)">Editar</a></td>
+                <td><a ng-click="deleteCarro(carros.Id)">Deletar</a></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div>{{error}}</div>
+
+</div>

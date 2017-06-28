@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TecnoSet.Data</name>
+    </assembly>
+    <members>
+        <member name="T:TecnoSet.Data.Filtering.BindableFilterExpression`1">
+            <summary>
+            Classe que envelopa uma expressão de filtragem de forma a facilitar sua transmissão por mecanismos de bind
+            </summary>
+            <typeparam name="TEntity"></typeparam>
+        </member>
+        <member name="T:TecnoSet.Data.Filtering.FilterExpression">
+            <summary>
+            Representa uma expressão de filtragem
+            </summary>
+        </member>
+        <member name="T:TecnoSet.Data.IRepository`1">
+            <summary>
+            Responsável por abstrair o acesso aos dados
+            </summary>
+            <typeparam name="TEntity"></typeparam>
+        </member>
+        <member name="M:TecnoSet.Data.IRepository`1.Get">
+            <summary>
+            Obtém todos os registros do tipo.
+            </summary>
+            
+        </member>
+        <member name="M:TecnoSet.Data.IRepository`1.GetByKey(System.Object)">
+            <summary>
+            Obtém a entidade com a chave especificada.
+            </summary>
+        </member>
+        <member name="M:TecnoSet.Data.IRepository`1.Create(`0,System.Boolean)">
+            <summary>
+            Cria a entidade no repositório de dados.
+            </summary>
+            <param name="entidade">
+            A entidade a ser salva
+            </param>
+            <param name="autoPersist">
+            True define que a transação será enviada automaticamente, enquanto que quando false,
+            os dados só serão persistidos com a chamada do método Save
+            </param>
+        </member>
+        <member name="M:TecnoSet.Data.IRepository`1.Update(`0,System.Boolean)">
+            <summary>
+            Cria a entidade no repositório de dados.
+            </summary>
+            <param name="entidade">
+            A entidade a ser alterada.
+            </param>
+            <param name="autoPersist">
+            True define que a transação será enviada automaticamente, enquanto que quando false,
+            os dados só serão persistidos com a chamada do método Save
+            </param>
+        </member>
+        <member name="M:TecnoSet.Data.IRepository`1.Delete(`0,System.Boolean)">
+            <summary>
+            Remove a entidade do repositório de dados.
+            </summary>
+            <param name="entidade">
+            A entidade a ser removida.
+            </param>
+            <param name="autoPersist">
+            True define que a transação será enviada automaticamente, enquanto que quando false,
+            os dados só serão persistidos com a chamada do método Save
+            </param>
+        </member>
+        <member name="M:TecnoSet.Data.IRepository`1.Save">
+            <summary>
+            Persiste as alterações pendentes.
+            </summary>
+        </member>
+        <member name="T:TecnoSet.Data.ISqlMessageParser">
+            <summary>
+            Traduz exceptions de SQL para uma linguagem amigável ao usuário
+            </summary>
+        </member>
+        <member name="T:TecnoSet.Data.MsSql2008EnUsMessageParser">
+            <summary>
+            Obtem mensagens amigáveis para o usuário final 
+            utilizando o nome do INDEX, CONSTRAINT e etc como chave de pesquisa
+            em um resource definido na inicialização da classe
+            </summary>
+        </member>
+        <member name="F:TecnoSet.Data.MsSql2008EnUsMessageParser.ESPACO_ENTRE_CONSTRAINT_E_INICIO_DO_NOME">
+            <summary>
+            Por exemplo, em: 
+            [UNIQUE KEY constraint 'nome'] - 
+            12 é o número de caracteres em [constraint '], o que fará que a pesquisa comece no início da palavra
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,5 @@
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\Domains\bin\Debug\Domains.dll
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\Domains\bin\Debug\Domains.pdb
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\Domains\obj\Debug\Domains.dll
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\Domains\obj\Debug\Domains.pdb
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\Domains\obj\Debug\Domains.csprojResolveAssemblyReference.cache

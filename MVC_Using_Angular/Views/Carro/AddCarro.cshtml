@@ -1,0 +1,29 @@
+﻿
+@{
+}
+<h2>Adicionar Novo Carro</h2>
+<div ng-controller="AddCarroController">
+    <table>
+        <tr>
+            <td>Ano</td>
+            <td><input type="text" ng-model="carro.Ano" />  </td>
+        </tr>
+        <tr>
+            <td>Cor</td>
+            <td><input type="text" ng-model="carro.Cor" />  </td>
+        </tr>
+        <tr>
+            <td>Nome</td>
+            <td><input type="text" ng-model="carro.Nome" />  </td>
+        </tr>
+        <tr>
+            <td>Placa</td>
+            <td><input type="text" ng-model="carro.Placa" />  </td>
+        </tr>
+        <tr>
+            <td>Modelo</td>
+            <td><input type="text" ng-model="carro.Modelo" />  </td>
+        </tr>
+    </table>
+    <input type="button" value="Save" ng-click="save()" />
+</div>

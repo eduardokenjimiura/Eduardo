@@ -1,0 +1,15 @@
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\RepositoryEntity\bin\Debug\RepositoryEntity.dll.config
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\RepositoryEntity\bin\Debug\RepositoryEntity.dll
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\RepositoryEntity\bin\Debug\RepositoryEntity.pdb
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\RepositoryEntity\bin\Debug\Domains.dll
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\RepositoryEntity\bin\Debug\EntityFramework.dll
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\RepositoryEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\RepositoryEntity\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\RepositoryEntity\bin\Debug\Domains.pdb
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\RepositoryEntity\bin\Debug\EntityFramework.xml
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\RepositoryEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\RepositoryEntity\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\RepositoryEntity\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\RepositoryEntity\obj\Debug\RepositoryEntity.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\RepositoryEntity\obj\Debug\RepositoryEntity.dll
+C:\Users\Administrador\Desktop\SPA-Angularjs-ASPNET-WebAPI-master\RepositoryEntity\obj\Debug\RepositoryEntity.pdb

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TecnoSet.Data.EntityFramework</name>
+    </assembly>
+    <members>
+        <member name="F:TecnoSet.Data.EntityFramework.EntityFrameworkRepository`1._context">
+            <summary>
+            The context object for the database
+            </summary>
+        </member>
+        <member name="F:TecnoSet.Data.EntityFramework.EntityFrameworkRepository`1._dbSet">
+            <summary>
+            The IObjectSet that represents the current entity.
+            </summary>
+        </member>
+        <member name="M:TecnoSet.Data.EntityFramework.EntityFrameworkRepository`1.Delete(System.Func{`0,System.Boolean},System.Boolean)">
+            <summary>
+            Deletes records matching the specified criteria
+            </summary>
+            <param name="predicate">Criteria to match on</param>
+        </member>
+    </members>
+</doc>
